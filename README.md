@@ -3,7 +3,7 @@
 - 👀 I’m interested in sounds...what computers can do?<br>
 - 🌱 I’m currently a back-end developer...Spring boot, ASP.NET<br>
 - 💞️ I’m looking to collaborate on...some projects<br>
-- 📫 How to reach me ... kh.inv24@gmail.com
+- 📫 How to reach me ... khaled.inv25@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-inv)
